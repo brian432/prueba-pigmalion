@@ -8,6 +8,7 @@ Utilicé TypeScript para resolver el ejercicio.
 
 - TypeScript: [Versión 5.1.3](https://www.typescriptlang.org/)
 - Node.js: [Versión v18.11.0](https://nodejs.org)
+- Jest: [Versión 29.5.0](https://jestjs.io/)
 - Visual Studio Code: [Versión 1.78.2](https://code.visualstudio.com)
 
 ## Instalación
@@ -27,7 +28,15 @@ Utilicé TypeScript para resolver el ejercicio.
    ```
    npm install
    ```
-  
+   
+## Pruebas
+
+1. Ejecuta las pruebas utilizando Jest
+
+   ```
+   npm test
+   ```
+
 ## Uso
 
 1. Compilar y ejecutar el proyecto
